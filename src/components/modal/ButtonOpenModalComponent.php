@@ -1,6 +1,6 @@
 <?php
 
-namespace Brilik\Calendar\components\modal;
+namespace VitoBryliano\Calendar\components\modal;
 
 class ButtonOpenModalComponent
 {

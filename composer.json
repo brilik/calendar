@@ -18,7 +18,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vitobryliano\\Calendar\\": "src/"
+            "VitoBryliano\\Calendar\\": "src/"
         }
     },
     "authors": [

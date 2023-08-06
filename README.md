@@ -22,8 +22,8 @@ composer require brilik/calendar
 ## How it works
 
 ```php
-use brilik\Calendar\TailWindCalendar;
-use brilik\Calendar\BootstrapCalendar;
+use VitoBryliano\Calendar\TailWindCalendar;
+use VitoBryliano\Calendar\BootstrapCalendar;
 
 // Get date in ISO format
 $date = Carbon::now()->tz('Europe/Kiev')->format('Y-m-d');

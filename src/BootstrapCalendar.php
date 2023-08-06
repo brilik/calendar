@@ -1,12 +1,12 @@
 <?php
 
-namespace Brilik\Calendar;
+namespace VitoBryliano\Calendar;
 
-use Brilik\Calendar\components\modal\ButtonOpenModalComponent;
-use Brilik\Calendar\components\NavigationComponent;
-use Brilik\Calendar\interface\ICalendar;
-use Brilik\Calendar\traits\ActionClickPopover;
-use Brilik\Calendar\traits\WeekDaysNamePanelTrait;
+use VitoBryliano\Calendar\components\modal\ButtonOpenModalComponent;
+use VitoBryliano\Calendar\components\NavigationComponent;
+use VitoBryliano\Calendar\interface\ICalendar;
+use VitoBryliano\Calendar\traits\ActionClickPopover;
+use VitoBryliano\Calendar\traits\WeekDaysNamePanelTrait;
 use Breadthe\SimpleCalendar\Calendar;
 use Carbon\Carbon;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace Brilik\Calendar\traits;
+namespace VitoBryliano\Calendar\traits;
 
 trait WeekDaysNamePanelTrait
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Brilik\Calendar\interface;
+namespace VitoBryliano\Calendar\interface;
 
 interface ICalendar
 {

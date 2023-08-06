@@ -7,9 +7,9 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-namespace Brilik\Calendar\traits;
+namespace VitoBryliano\Calendar\traits;
 
-use Brilik\Calendar\components\modal\ButtonOpenModalComponent;
+use VitoBryliano\Calendar\components\modal\ButtonOpenModalComponent;
 
 /**
  * todo Next version:

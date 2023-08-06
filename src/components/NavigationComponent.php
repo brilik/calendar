@@ -1,6 +1,6 @@
 <?php
 
-namespace Brilik\Calendar\components;
+namespace VitoBryliano\Calendar\components;
 
 class NavigationComponent
 {
