@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Library\Calendar\components;
+namespace Brilik\Calendar\components;
 
 class NavigationComponent
 {

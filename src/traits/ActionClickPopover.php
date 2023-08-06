@@ -7,9 +7,9 @@
  * Vestibulum commodo. Ut rhoncus gravida arcu.
  */
 
-namespace App\Library\Calendar\traits;
+namespace Brilik\Calendar\traits;
 
-use App\Library\Calendar\components\modal\ButtonOpenModalComponent;
+use Brilik\Calendar\components\modal\ButtonOpenModalComponent;
 
 /**
  * todo Next version:

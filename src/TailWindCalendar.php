@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Library\Calendar;
+namespace Brilik\Calendar;
 
-use App\Library\Calendar\components\modal\ButtonOpenModalComponent;
-use App\Library\Calendar\components\NavigationComponent;
-use App\Library\Calendar\interface\ICalendar;
-use App\Library\Calendar\traits\ActionClickPopover;
-use App\Library\Calendar\traits\WeekDaysNamePanelTrait;
+use Brilik\Calendar\components\modal\ButtonOpenModalComponent;
+use Brilik\Calendar\components\NavigationComponent;
+use Brilik\Calendar\interface\ICalendar;
+use Brilik\Calendar\traits\ActionClickPopover;
+use Brilik\Calendar\traits\WeekDaysNamePanelTrait;
 use Breadthe\SimpleCalendar\Calendar;
 use Carbon\Carbon;
 

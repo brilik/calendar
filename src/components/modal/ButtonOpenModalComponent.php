@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Library\Calendar\components\modal;
+namespace Brilik\Calendar\components\modal;
 
 class ButtonOpenModalComponent
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Library\Calendar\interface;
+namespace Brilik\Calendar\interface;
 
 interface ICalendar
 {
