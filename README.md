@@ -9,7 +9,7 @@ Display Calendar with adding events for popular frameworks (Bootstrap, TailWinds
 
 ## Requirements
 
-- PHP 8.1+
+- PHP 7.3+
 
 ## Installation
 

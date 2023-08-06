@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "edc7ccf276b2432027d40592db01beb3",
+    "content-hash": "ff7e68ef002fecc6f65c7622307ce7f5",
     "packages": [
         {
             "name": "breadthe/php-simple-calendar",
@@ -576,7 +576,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=8.1"
+        "php": "^7.3|^7.4|^8.0"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
