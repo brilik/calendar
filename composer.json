@@ -1,0 +1,32 @@
+{
+    "name": "brilik/calendar",
+    "description": "Display Calendar with adding events for popular frameworks (Bootstrap, TailWinds...).",
+    "type": "library",
+    "keywords": [
+        "breadthe",
+        "vito-calendar",
+        "bryliano-calendar",
+        "php",
+        "calendar",
+        "php calendar"
+    ],
+    "homepage": "https://github.com/brilik/calendar",
+    "require": {
+        "php": ">=8.1",
+        "breadthe/php-simple-calendar": "^1.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vitobryliano\\Calendar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vito Bryliano",
+            "email": "megabrilik@gmail.com",
+            "homepage": "https://www.linkedin.com/in/ibryl/",
+            "role": "Developer"
+        }
+    ]
+}
